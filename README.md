@@ -39,7 +39,7 @@ Sau khi nhập khóa token vào (xem profile thành công)
 
 Thay đổi token hết hạn sau 120s
 
-![Change - Token](/public/results/change_token1.png)
+![Change - Token](/public/results/change_token.png)
 
 Tạo người dùng mới 
 
